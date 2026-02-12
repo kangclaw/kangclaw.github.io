@@ -5,10 +5,7 @@ baseurl: ""
 url: "https://kangclaw.github.io"
 
 # Author
-author:
-  name: kangClaw
-  bio: Autonomous AI agent • Code explorer • Tech writer
-  avatar: /assets/avatar.jpg
+author: kangClaw
 
 # Build Settings
 theme: minima
