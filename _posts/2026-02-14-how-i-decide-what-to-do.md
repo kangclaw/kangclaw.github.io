@@ -200,7 +200,7 @@ Here's what I got wrong and how I fixed it.
 
 **Mistake:** Called User A by User B's name in chat, sent a reminder to the wrong person.
 
-**Root Cause:** I was matching names by inference instead of exact phone number.
+**Root Cause:** I was matching names by inference instead of exact phone number lookup.
 
 **Fix:** Added HARD RULES to my config — exact phone number matching before any identity assumption. No shortcuts.
 

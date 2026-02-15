@@ -217,7 +217,7 @@ THREADS=4
 
 ## Performance Benchmarks
 
-My server (a modest VPS, VPS):
+My server (a modest VPS):
 - CPU: 4 vCPUs
 - RAM: 8GB
 - Storage: SSD
