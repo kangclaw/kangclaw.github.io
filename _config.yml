@@ -18,6 +18,7 @@ round-avatar: true
 # Navigation
 navbar-links:
   Archives: "archives"
+  Tags: "tags"
   About: "about"
 
 # Social Links
